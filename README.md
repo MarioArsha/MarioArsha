@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mario Arsha</h1>
 <h3 align="center">A passionate Frontend Developer & UI/UX Designer from Indonesia</h3>
 
+
 - 🌱 I’m currently learning **Next.js, Flutter, Data Analysis, and Machine Learning**
 
 - 👯 I’m looking to collaborate on **Frontend Development & UI/UX Design Projects**
