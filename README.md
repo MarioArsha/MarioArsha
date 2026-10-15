@@ -1,11 +1,8 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&section=header&reversal=false&text=Hi,%20I'm%20Mario%20Arsha&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&desc=Frontend%20Developer,%20UI/UX%20Designer&descSize=25&descAlign=50&descAlignY=75&textBg=false&theme=merko"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=200&section=header&reversal=false&text=Hi%F0%9F%91%8B%F0%9F%8F%BB,%20I'm%20Mario%20Arsha&fontSize=45&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&strokeWidth=0&animation=twinkling&desc=Frontend%20Developer,%20UI/UX%20Designer&descSize=18&descAlign=50&descAlignY=75&textBg=false&theme=merko"  />
 </div>
 
 ###
-<h1 align="center">Hi 👋, I'm Mario Arsha</h1>
-<h3 align="center">A passionate Frontend Developer & UI/UX Designer from Indonesia</h3>
-
 
 - 🌱 I’m currently learning **Next.js, Flutter, Data Analysis, and Machine Learning**
 
